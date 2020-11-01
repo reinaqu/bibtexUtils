@@ -8,8 +8,8 @@ Utilities for BibTeX files.
 
 # Aim
 The aim of the project is twofold:
-(1) Test the jbibtex library to manage BibTex files
-(2) Create a set of utilities to operate with bibfiles.
+(1) Test the jbibtex library to manage BibTeX files
+(2) Create a set of utilities to operate with BibTeX files.
 
 
 # Utilities
